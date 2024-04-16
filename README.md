@@ -43,8 +43,8 @@ The ```Testing``` module helps in maintaining the application and facilitating t
 The application comes with a test suite to help users ensure correct installation and help developers verify any updates.
 1. Ensure the Results and Uploads directories are empty.
 2. Ensure the MongoDB collections are empty.
-3. Ensure the scan8 application is up and running.
+3. Ensure the DISTRISCAN application is up and running.
 4. Access a terminal and move to the ```Testing``` directory.
 5. Run the test suite using ```python3 app.py -v```.
-7. Run a single scan using the Scan8 dashboard and wait till completion.
+7. Run a single scan using the DISTRISCAN dashboard and wait till completion.
 8. Run the test suite again using ```python3 app.py -v```.
